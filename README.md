@@ -2,4 +2,4 @@ The ZMK keymap for my Corne keyboard was created using [Keymap Editor](https://n
 
 <img src="my_keymap.svg" alt="keymap layout graphical representation" width="100%" />
 
-> Drawn with [Keymap Drawer]([/caksoylar/keymap-drawer](https://keymap-drawer.streamlit.app/))
+> Drawn with [Keymap Drawer](https://keymap-drawer.streamlit.app/)
