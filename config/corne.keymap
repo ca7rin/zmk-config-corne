@@ -47,12 +47,12 @@
 
             bindings = <
 &kp GRAVE   &kp N1           &kp N2             &kp N3     &kp N4          &kp N5         &kp N6     &kp N7           &kp N8           &kp N9                &kp N0                 &kp BSPC
-&kp LSHIFT  &kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp POUND  &kp DOLLAR      &kp PERCENT    &kp CARET  &kp AMPERSAND    &kp ASTERISK     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp POUND
+&kp LSHIFT  &kp EXCLAMATION  &kp DOUBLE_QUOTES  &kp POUND  &kp DOLLAR      &kp PERCENT    &kp CARET  &kp AMPERSAND    &kp ASTERISK     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp HASH
 &kp LCTRL   &kp BSLH         &kp PLUS           &kp MINUS  &kp LEFT_BRACE  &kp LBKT       &kp RBKT   &kp RIGHT_BRACE  &kp EQUAL        &kp UNDERSCORE        &kp PIPE               &kp TILDE
                                                 &kp LGUI   &trans          &kp SPACE      &kp ENTER  &kp DELETE       &kp PRINTSCREEN
             >;
 
-            label = "num & sym";
+            label = "num&sym";
         };
 
         function+arrow {
@@ -63,7 +63,7 @@
                                             &kp LGUI       &kp LALT       &kp SPACE        &kp ENTER  &trans    &kp PRINTSCREEN
             >;
 
-            label = "func & arr";
+            label = "func&arr";
         };
     };
 };
