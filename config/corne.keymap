@@ -52,7 +52,7 @@
                                                 &kp LGUI   &trans          &kp SPACE      &kp ENTER  &kp DELETE       &kp PRINTSCREEN
             >;
 
-            label = "num&sym";
+            label = "nu&sym";
         };
 
         function+arrow {
